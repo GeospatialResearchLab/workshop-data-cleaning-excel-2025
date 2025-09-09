@@ -3,6 +3,7 @@
 **Date:** April 2025   
 **Hosted by:** Digital Research and Innovation Lab (American University)  
 **Instructor:** Jessica Breen, PhD (Program Director, Geospatial Research Support) 
+
 **Content created by:** Geospatial Research Lab (American University Library)   
 **Tags:** Data Literacy • Excel • Workshop
 
@@ -16,8 +17,8 @@ Do you find yourself drowning in messy spreadsheets? Discover how to bring order
 
 ## Materials
 
-- **Slides (PDF):** [`handouts/slides.pdf`](handouts/slides.pdf)  
-- **Data Cleaning Cheat Sheet (PDF):** [`handouts/cheatsheet.pdf`](handouts/cheatsheet.pdf)  
+- **Slides (PDF):** [`slides.pdf`](documents/slides.pdf)  
+- **Data Cleaning Cheat Sheet (PDF):** [`cheatsheet.pdf`](documents/cheatsheet.pdf)  
 
 ---
 
