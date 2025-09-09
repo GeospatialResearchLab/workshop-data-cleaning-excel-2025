@@ -34,9 +34,10 @@ Do you find yourself drowning in messy spreadsheets? Discover how to bring order
 
 This workshop was hosted by the **Digital Research and Innovation Lab** as part of their Spring 2025 programming.  
 Content was developed and delivered by the **Geospatial Research Lab**.
+
 ---
 
 ## Citation
 
 Geospatial Research Lab (2025). *Spark Joy in Your Data: A KonMari-Inspired Guide to Data Cleaning* (workshop materials). American University Library.  
-https://github.com/GeospatialResearchLab/workshop-spark-joy-data
+https://github.com/GeospatialResearchLab/workshop-data-cleaning-excel-2025
