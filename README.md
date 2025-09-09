@@ -16,8 +16,8 @@ Do you find yourself drowning in messy spreadsheets? Discover how to bring order
 
 ## Materials
 
-- **Slides (PDF):** [`slides.pdf`](documents/slides.pdf)  
-- **Data Cleaning Cheat Sheet (PDF):** [`cheatsheet.pdf`](documents/cheatsheet.pdf)  
+- **Slides (PDF):** [`Slides.pdf`](documents/Slides.pdf)  
+- **Data Cleaning Cheat Sheet (PDF):** [`Cheatsheet.pdf`](documents/Cheatsheet.pdf)  
 
 ---
 
