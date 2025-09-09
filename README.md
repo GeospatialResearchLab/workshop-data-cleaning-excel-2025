@@ -2,8 +2,8 @@
 
 **Date:** April 2025   
 **Hosted by:** Digital Research and Innovation Lab (American University)  
-**Instructor:** Jessica Breen, PhD (Program Director, Geospatial Research Support)
-**Content created by:** Geospatial Research Lab (American University Library)  
+**Instructor:** Jessica Breen, PhD (Program Director, Geospatial Research Support) 
+**Content created by:** Geospatial Research Lab (American University Library)   
 **Tags:** Data Literacy • Excel • Workshop
 
 ---
